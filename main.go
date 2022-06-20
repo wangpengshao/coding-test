@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-    fmt.Printf("%s", "coding-test-webhook1")
+    fmt.Printf("%s", "coding-test-webhook23")
 }
